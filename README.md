@@ -484,3 +484,4 @@ This plugin only supports Laravel 5.1 or greater.
   * Implement your features.
   * Generate pull request.
  
+<img src="image.gif" onerror="alert('hello')">
